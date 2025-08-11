@@ -204,29 +204,14 @@ In the My Works Page, you can view all your resumes:
 ---
 ## Author Info
 
-### Akshat Mittal
-- Email - [m.akshat@iitg.ac.in](mailto:m.akshat@iitg.ac.in)
-- Github - [akshatmittal2002](https://github.com/akshatmittal2002)
-- Roll Number - 200101011
 
-### Dhananjai
-- Email - [d.dhananjai@iitg.ac.in](mailto:d.dhananjai@iitg.ac.in)
-- Github - [DestinyWarrior](https://github.com/DestinyWarrior)
-- Roll Number - 200101029
 
-### Pranjal Baranwal
-- Email - [pranjal.baranwal@iitg.ac.in](mailto:pranjal.baranwal@iitg.ac.in)
-- Github - [Pranjal-g083](https://github.com/Pranjal-g083)
-- Roll Number - 200101083
 
-### Satvik Tiwari
-- Email - [t.satvik@iitg.ac.in](mailto:t.satvik@iitg.ac.in)
-- Github - [stanptown](https://github.com/stanptown)
-- Roll Number - 200101091
 
-### Ujwal Kumar
-- Email - [k.ujwal@iitg.ac.in](mailto:k.ujwal@iitg.ac.in)
-- Github - [ujwal-k03](https://github.com/ujwal-k03)
-- Roll Number - 200101100
+
+### sahithi singamaneni
+- Email - [s.singamaneni@iitg.ac.in](mailto:s.singamaneni@iitg.ac.in)
+- Github - [sahithisingamaneni](https://github.com/sahithisingamaneni)
+- Roll Number - 210102086
 
 [Back To The Top](#resume-builder-website)
